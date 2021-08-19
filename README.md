@@ -1,3 +1,3 @@
-# Translatir React Client
+# Translatir
 
-React client for the Translatir API
+Translator app
