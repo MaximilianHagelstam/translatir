@@ -2,6 +2,17 @@
 
 Open-source translation app
 
+## Demo
+
+![screenshot](screenshot.png)
+Check out the [live demo](https://translatir.netlify.app/)
+
+## Requirements
+
+- Node.js
+- Yarn
+- An Azure subscription
+
 ## Getting started
 
 1. Install [Node.js](https://nodejs.org/en/)
