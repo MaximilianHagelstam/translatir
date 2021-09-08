@@ -3,7 +3,8 @@
 ## Demo
 
 ![screenshot](screenshot.png)
-Check out the [live demo](https://translatir.netlify.app/)
+
+Check out the [live demo](https://translatir.netlify.app/) (if it dosen't work, I have ran out of Azure credits)
 
 ## Requirements
 
