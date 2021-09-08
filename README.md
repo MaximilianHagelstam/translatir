@@ -1,7 +1,5 @@
 # Translatir
 
-Open-source translation app
-
 ## Demo
 
 ![screenshot](screenshot.png)
